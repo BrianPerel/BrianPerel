@@ -1,4 +1,4 @@
-### Hi there 👋! Welcome to my developer's space.
+### Hi there! Welcome to my developer's space.
 
 <!--
 **BrianPerel/BrianPerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
